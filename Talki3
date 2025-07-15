@@ -1,10 +1,12 @@
+<!-- index.html -->
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>আমার প্রথম ওয়েবসাইট</title>
+  <meta charset="UTF-8">
+  <title>My First Netlify Site</title>
 </head>
 <body>
-  <h1>Welcome! এই ওয়েবসাইট GitHub Pages থেকে হোস্ট করা।</h1>
-  <p>100% ফ্রি এবং আজীবনের জন্য!</p>
+  <h1>Welcome to My Netlify Website!</h1>
+  <p>This site is 100% free and hosted via GitHub + Netlify.</p>
 </body>
 </html>
